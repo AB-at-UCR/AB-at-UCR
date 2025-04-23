@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AB-at-UCR.
-- 👀 I’m interested in Artificial Intelligence, Machine Learning.
-- 🌱 I’m currently learning everything about CS.
-- 📫 How to reach me abhar061@ucr.edu
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Software Development.
+- 🌱 I’m currently pursuing my MS in CS at UCR where my thesis is centered around cancer data diagnostics and computaional biology.
+- 📫 How to reach me - abhar061@ucr.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If there is anything fun out there, I'm willing to learn it 😁
+- ⚡ Fun fact: If there is something fun out there to learn, Let me know and I'll check it out 😁
 
 <!---
 AB-at-UCR/AB-at-UCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
